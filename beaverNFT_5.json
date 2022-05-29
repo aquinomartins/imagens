@@ -1,0 +1,17 @@
+{
+    "tokenId": 3,
+    "name": "Beaver NFT7 Aquino #3",
+    "description": "Algumas imagens Legais e gigantes. BACON\nComo isso fica depois do | n??? BACON\n",
+    "image": "https://github.com/aquinomartins/imagens/blob/main/JesusCristo_OCaminhoAVerdadeEAVida.png",
+    "external_url": "https://github.com/aquinomartins/imagens/",
+    "attributes": [
+        {
+            "trait_type": "Trabalho Duro 3",
+            "value": 30
+        },
+        {
+            "trait_type": "Máquina",
+            "value":20
+        }
+    ]
+}
