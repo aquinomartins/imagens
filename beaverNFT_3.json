@@ -1,0 +1,17 @@
+{
+    "tokenId": 3,
+    "name": "Beaver NFT7 Aquino #3",
+    "description": "Algumas imagens Legais e gigantes. BACON\nComo isso fica depois do | n??? BACON\n",
+    "image": "https://dashboardlivre.com.br/beaverNFT7/beaverNFT_3.png",
+    "external_url": "https://dashboardlivre.com.br/beaverNFT7",
+    "attributes": [
+        {
+            "trait_type": "Trabalho Duro 3",
+            "value": 30
+        },
+        {
+            "trait_type": "Máquina",
+            "value":20
+        }
+    ]
+}
